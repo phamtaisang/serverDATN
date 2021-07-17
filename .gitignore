@@ -16,4 +16,3 @@ yarn-error.log
 /.idea/
 /storage
 /public/asset/images
-composer.lock
